@@ -15,16 +15,13 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
+5. 🔗 [Links](#links)
+6. 🚀 [More](#more)
 
 
 ## <a name="introduction">🤖 Introduction</a>
 
 A modern and interactive 3D portfolio showcasing my skills, projects, and experiences. This portfolio uses **React**, **Three.js**, **Tailwind CSS**, and **Framer Motion** to provide an engaging user experience with smooth animations and 3D elements
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -38,23 +35,15 @@ A modern and interactive 3D portfolio showcasing my skills, projects, and experi
 
 ## <a name="features">🔋 Features</a>
 
-👉 **Customizable 3D Hero Section**: Includes a 3D desktop model easily customizable to suit specific needs.
+👉 **Interactive 3D Environment**: View the 3D model of a computer and interact with the scene.
 
-👉 **Interactive Experience and Work Sections**: Utilizes animations powered by framer motion for engaging user experience.
+👉 **Responsive Design**: Optimized for both desktop and mobile users.
 
-👉 **3D Skills Section**: Showcases skills using 3D geometries through three.js and React Three fiber
+👉 **Smooth Animations**: Leveraging **Framer Motion** for fluid transitions and animations.
 
-👉 **Animated Projects and Testimonials**: Features animated sections using framer motion for projects and client testimonials.
+👉 **Skills and Projects Showcase**: Displaying personal projects, technologies, and work experience.
 
-👉 **Contact Section with 3D Earth Model**:Integrates a 3D earth model with email functionality powered by emailjs.
-
-👉 **3D Stars**: Generate stars progressively at random positions using Three.js for background display.
-
-👉 **Consistent Animations**: Implements cohesive animations throughout the website using framer motion.
-
-👉 **Responsive Design**: Ensures optimal display and functionality across all devices.
-
-and many more, including code architecture and reusability 
+👉 **Contact Section**: Includes contact information and links to social media profiles.
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -71,8 +60,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone git@github.com:adrianhajdin/project_3D_developer_portfolio.git
-cd project_3D_developer_portfolio
+git clone git@github.com:everthingisnotfound/ArjunSaxena_Portfolio.git
+cd ArjunSaxena_Portfolio
 ```
 
 **Installation**
@@ -103,7 +92,6 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-## <a name="snippets">🕸️ Snippets</a>
 
 <details>
 <summary><code>constants.js</code></summary>
